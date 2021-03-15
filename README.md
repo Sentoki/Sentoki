@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I am backend PHP developer at [vseinstrumenti.ru](https://www.vseinstrumenti.ru/) :hammer_and_wrench: :clamp: :hammer_and_pick: :axe: :toolbox:
+Currently I working as backend PHP developer at [vseinstrumenti.ru](https://www.vseinstrumenti.ru/) :hammer_and_wrench: :clamp: :hammer_and_pick: :axe: :toolbox:
 
 Also you can find me at [hackerrank](https://bit.ly/2Ltph73)
 <!--
