@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Currently I working as backend PHP developer at [vseinstrumenti.ru](https://www.vseinstrumenti.ru/) :hammer_and_wrench: :clamp: :hammer_and_pick: :axe: :toolbox:
-
 Also you can find me at [hackerrank](https://bit.ly/2Ltph73)
 <!--
 **Sentoki/Sentoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
